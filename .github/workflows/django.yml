@@ -11,9 +11,9 @@ jobs:
       postgres:
         image: postgres:10.8
         env:
-          POSTGRES_USER: decide
-          POSTGRES_PASSWORD: decide
-          POSTGRES_DB: postgres
+          POSTGRES_USER: decidef
+          POSTGRES_PASSWORD: decidef
+          POSTGRES_DB: decidef
         ports:
           - 5432:5432
         # needed because the postgres container does not provide a healthcheck
