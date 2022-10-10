@@ -2,7 +2,7 @@
 
 Plataforma voto electrónico educativa
 =====================================
-E S T O  E S  U N  C A M B I O 2
+E S T O  E S  U N  C A M B I O 3
 
 El objetivo de este proyecto es implementar una plataforma de voto
 electrónico seguro, que cumpla una serie de garantías básicas, como la
